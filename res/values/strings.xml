@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, NoteActivity!</string>
+    <string name="app_name">Note</string>
+    <string name="note_list">记事列表</string>
+    <string name="notepad_is_null">记事本为空</string>
+    <string name="cancel">取消</string>
+    <string name="confirm_delete">确定要删除吗?</string>
+	<string name="ok">确定</string>
+	<string name="delete_success">删除成功</string>
+	
+	<string name="share_with_sms">短信</string>
+    <string name="share_with_email">邮箱</string>
+	
+	
+	<string name="alarm_alert">闹钟响啦</string>
+	<string name="alarm_setting">闹钟设置</string>
+	<string name="alarm_time_setting">设置时间</string>
+	<string name="alarm_is_repeat">是否重复</string>
+	<string name="yes">是</string>
+	<string name="no">否</string>
+	<string name="start_alarm">启用闹钟</string>
+	<string name="alarm_date_setting">设置日期</string>
+	<string name="please_set_alarmtime">请先设置时间</string>
+	<string name="alarm_rings">铃声</string>
+	<string name="alarm_is_vibrate">是否振动</string>
+	
+	 <string name="main_comment">评论</string>
+    <string name="main_message">私信</string>
+     <string name="more">更多</string>
+     <string name="menu_search">搜索</string>
+      <string name="main_home">新建笔记</string>
+      <string name="main_my_info">分类</string>
+      <string name="main_news">全部笔记</string>
+
+</resources>
